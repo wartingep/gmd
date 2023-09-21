@@ -18,4 +18,4 @@ plugins {
 }
 
 rootProject.name = "GMD"
-include(":app")
+//include(":app")
